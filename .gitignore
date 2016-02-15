@@ -1,0 +1,8 @@
+# ignore constants.php file
+includes/constants.php
+
+# ignore images folder
+images/
+
+# ignore screenshots folder
+screenshots/
